@@ -1,6 +1,6 @@
 {
   "name": "particl-bitcoind-rpc",
-  "description": "Bitcoin Client Library to connect to Particl Core via RPC",
+  "description": "Particl Client Library to connect to Particl Core via RPC",
   "version": "0.7.0",
   "author": {
     "name": "Stephen Pair",
@@ -25,7 +25,7 @@
     }
   ],
   "keywords": [
-    "bitcoin",
+    "particl",
     "rpc"
   ],
   "repository": {
